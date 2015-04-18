@@ -1,0 +1,3 @@
+default: --no-source --color --format pretty  --format html --out results.html --format json --out reports.json
+localhost: --no-source --color --format pretty  --format html --out results.html --format json --out reports.json SOURCE_URL=localhost
+pcw7: --no-source --color --format pretty  --format html --out results.html --format json --out reports.json SOURCE_URL=localhost

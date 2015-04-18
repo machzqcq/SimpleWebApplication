@@ -1,0 +1,8 @@
+.idea/
+Gemfile.lock
+results.html
+reports.json
+test.rb
+screenshots/
+coverage/
+resultsarchive/
