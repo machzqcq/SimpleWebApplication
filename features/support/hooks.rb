@@ -19,6 +19,7 @@ After do |scenario|
     embed screenshot, 'image/png'
   end
   @browser.cookies.clear
+  # puts @browser.performance.to_yaml
   @browser.quit
 
 end

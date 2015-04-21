@@ -21,6 +21,9 @@ SimpleCov.formatters = [
 
 SimpleCov.start
 
+# 
+# require 'watir-webdriver-performance'
+
 require './lib/uno_client'
 require './lib/page_helper'
 require './lib/data_helper'

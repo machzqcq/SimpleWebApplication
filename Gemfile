@@ -12,6 +12,7 @@ gem 'simplecov-rcov'
 gem 'sinatra'
 gem 'rest-client'
 gem 'rubocop'
+gem 'watir-webdriver-performance'
 
 
 # gem to connect to saucelabs and also dynamically change browser parameters
