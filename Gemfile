@@ -11,6 +11,7 @@ gem 'simplecov'
 gem 'simplecov-rcov'
 gem 'sinatra'
 gem 'rest-client'
+gem 'rubocop'
 
 
 # gem to connect to saucelabs and also dynamically change browser parameters

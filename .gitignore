@@ -1,4 +1,5 @@
 .idea/
+*.html
 Gemfile.lock
 results.html
 reports.json
